@@ -1,0 +1,1 @@
+<option value="[[+city]]" [[+attr]]>[[+city]]</option>

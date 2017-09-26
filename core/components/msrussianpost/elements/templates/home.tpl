@@ -1,0 +1,1 @@
+<div id="msrussianpost-panel-home-div"></div>
